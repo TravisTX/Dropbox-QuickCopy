@@ -1,0 +1,9 @@
+c:\projects\misc\DropBoxQuickCopy\DropBoxQuickCopy\bin\Debug\DropBoxQuickCopy.exe
+c:\projects\misc\DropBoxQuickCopy\DropBoxQuickCopy\bin\Debug\DropBoxQuickCopy.pdb
+c:\projects\misc\DropBoxQuickCopy\DropBoxQuickCopy\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\projects\misc\DropBoxQuickCopy\DropBoxQuickCopy\obj\x86\Debug\DropBoxQuickCopy.Properties.Resources.resources
+c:\projects\misc\DropBoxQuickCopy\DropBoxQuickCopy\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\projects\misc\DropBoxQuickCopy\DropBoxQuickCopy\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\projects\misc\DropBoxQuickCopy\DropBoxQuickCopy\obj\x86\Debug\DropBoxQuickCopy.exe
+c:\projects\misc\DropBoxQuickCopy\DropBoxQuickCopy\obj\x86\Debug\DropBoxQuickCopy.pdb
+c:\projects\misc\DropBoxQuickCopy\DropBoxQuickCopy\obj\x86\Debug\DropBoxQuickCopy.Resource1.resources
